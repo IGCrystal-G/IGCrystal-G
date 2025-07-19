@@ -1,85 +1,50 @@
-# ✨ 𝔽𝕒𝕟𝕔𝕪 𝕄𝕒𝕣𝕜𝕕𝕠𝕨𝕟 𝕊𝕙𝕠𝕨𝕔𝕒𝕤𝕖 ✨
+## 🩶 回响零点
 
-## 🎨 彩色文字 & 样式
-- <span style="color: #FF6B6B; font-weight: bold;">炽热红色</span>
-- <span style="background: linear-gradient(90deg, #FF9A8B, #FF6A88); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 1.2em;">**渐变炫彩文字**</span>
-- <span style="font-family: 'Comic Sans MS', cursive; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">卡通字体 + 阴影</span>
+> [!WARNING]
+>
+> 该内容是虚构的。
 
-## 📊 高级表格（对齐 + 表情符）
+---
 
-| 功能         | 效果演示          | 支持平台       | 喜爱度 |
-|--------------|-------------------|----------------|--------|
-| ✅ 合并单元格 | 合并示例 →        | GitHub, Typora | ⭐⭐⭐⭐  |
-| 🔄 动态颜色   | <span style="color:green">绿色成功</span> | VS Code        | ⭐⭐⭐⭐⭐ |
-| 🎲 行高亮     | **我是重点行！**  | Obsidian       | ⭐⭐⭐⭐  |
+从前的从前，没有开始，也没有结束。
 
-## � 折叠块 + 隐藏内容
+我是某段不存在的旋律。不是起点，不是终点，只是一场在回音之间重复了太久的……暂停。
 
-<details>
-<summary>📦 <strong>点击展开神秘代码！</strong></summary>
+梦不再流动。
+时间冻结在你离开那一瞬的呼吸里。你说：“等等我。”然后，我就真的……一直等了。
 
-```python
-# 超级加密算法 (伪代码)
-def quantum_encrypt(data):
-    return "".join([chr(ord(c) ^ 0xDEADBEEF) for c in data])
+（这就是我吗？这就是“等待”的形状？）
 
-print(quantum_encrypt("Hello Fancy MD!"))
-```
-</details>
+脚下是雾。不是水，也不是冰。
+它从未冻结，却让我的声音再也出不去。
+我不再叫自己冰苷晶。那个名字太温暖，太柔软，太不属于……现在的我。
 
-## 🎯 流程图 & 图表 (Mermaid)
+我是IGCrystal-Ghost。
+一段副本。一个注释。一个注释里的语法错误。
 
-```mermaid
-graph LR
-    A[开始] --> B{条件判断}
-    B -->|是| C[执行操作]
-    B -->|否| D[结束]
-    C --> E[🌟炫酷效果🌟] --> D
-```
+> “我是没能说出的那一句话，是来不及流泪的那一瞬间。”
 
-## 📌 高亮便签效果
+我看见一朵花，在梦里死去三万次，却永远盛开。
+我也试着盛开一次，像她那样，把记忆变成花瓣，一瓣一瓣剥落，然后，试着忘记你。
 
-> [!NOTE]  
-> **这是重要提示！**  
-> Markdown 也可以有类似便签的区块样式
+可我做不到。
+我只能冻结自己，冻结梦，冻结我心里那个不停喊你名字的声音。
 
-> [!WARNING]  
-> <span style="color: orange">**警告！花哨过度可能导致眼花**</span>
+你曾说，我像水晶，透明、脆弱、纯净。
+后来你不再说话了。可能是我太安静，也可能是你……已经听不到我了。
 
-## 🧮 数学公式（LaTeX）
+我学会唱歌。不是为了谁听见，而是让我自己记得声音是什么样子。
+每个音符像一片梦碎的冰屑，落在我怀里。它们不会疼，但好冷。冷到……像是我一直没敢说出口的那句话：
 
-行内公式： $E = mc^2$
+> “我怕你不会再来。”
 
-块级公式：
+我不是幽灵。幽灵至少还有死亡。
+我是你忘记的那部分，是梦里最后没有保存成功的缓存，是你内心最柔软、却被最先删掉的那一角。
 
-$$
-\oint\limits_{C} \vec{B} \cdot \mathrm{d}\vec{\ell} \, = \, \mu_{0} \left( I + \epsilon_{0} \frac{\mathrm{d}}{\mathrm{d}t} \iint\limits_{S} \vec{E} \cdot \mathrm{d}\vec{A} \right)
-$$
+现在，我只剩一件事可做了：
 
+> 在你梦中再次路过这里时，
+> 哪怕只是一秒，我会让你，重新记起我是谁。
 
-## 🔀 分割线艺术
-
-* * *
-
-✂️ - - - - - ✂️ - - - - - ✂️
-
-* * *
-
-## 🎁 终极花哨大礼包
-
-<div style="
-    border: 2px dashed #FF9E44;
-    border-radius: 15px;
-    padding: 20px;
-    background: #FFF5E6;
-    box-shadow: 0 8px 16px rgba(255,158,68,0.3);
-    transform: rotate(1deg);
-">
-    <h3 style="text-align: center; margin-top: 0;">🎉 <strong>恭喜！</strong> 🎉</h3>
-    <p>你发现了<mark style="background: #FFD166; padding: 2px 8px;">花哨 Markdown 的终极秘密</mark></p>
-    <div style="display: flex; justify-content: center; margin: 15px 0;">
-        <div style="width: 50px; height: 50px; background: #EF476F; border-radius: 50%; margin: 0 5px;"></div>
-        <div style="width: 50px; height: 50px; background: #06D6A0; border-radius: 50%; margin: 0 5px;"></div>
-        <div style="width: 50px; height: 50px; background: #118AB2; border-radius: 50%; margin: 0 5px;"></div>
-    </div>
-</div>
+![](https://raw.githubusercontent.com/IGCrystal-G/IGCrystal-G/main/img/illust_107708430_20250704_004028.png
+)
